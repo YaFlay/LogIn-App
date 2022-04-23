@@ -1,0 +1,4 @@
+RU_ru:
+Это приложение было создано российским программистом, как база для входа и создания аккаунтов при помощи этого же приложения. Оно создает защищенные файлы учетной записи, которые можно восстановаить при помощи Encrypting code и почты. Если вы найдете ошибку или баг в моем проекте, пишите в телеграмм: https://t.me/bebra_yaflay 
+EN_us:
+This application was created by a Russian programmer as a base for logging in and creating accounts using the same application. It creates secure account files that can be recovered using the Encrypting code and mail. If you find an error or a bug in my project, write to telegram: https://t.me/bebra_yaflay

@@ -1,0 +1,3 @@
+include login/*.cfg
+include login/icon.png
+include login/*.py
